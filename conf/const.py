@@ -4,3 +4,4 @@ class URL(object):
 
 class Const(object):
     browser = 'chrome'
+
